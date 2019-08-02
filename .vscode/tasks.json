@@ -1,0 +1,43 @@
+{
+    "version": "0.1.0",
+    "command": "venv/bin/python",
+    "echoCommand": true,
+    "suppressTaskName": true,
+    "isShellCommand": true,
+    "options": {
+        "env": {
+            "PYTEST_ADDOPTS": "-vv --tb=native"
+        }
+    },
+    "tasks": [
+        {
+        "taskName": "tests",
+        "isTestCommand": true,
+        "args": [
+            "-m",
+            "pytest",
+            "-s",
+            "${workspaceRoot}"
+        ],
+        "problemMatcher": [{
+            "fileLocation": "absolute",
+            "pattern": [{
+                    "regexp": "^\\s+File \"(.*)\", line (\\d+), in (.*)$",
+                    "file": 1,
+                    "line": 2
+                },
+                {
+                    "regexp": "^\\s+(.*)$",
+                    "message": 1
+                }
+            ]
+        }]
+    },
+    {
+        "taskName": "archive",
+        "isTestCommand": true,
+        "args": [
+            "${workspaceRoot}/scripts/archive.py",
+        ]
+    }]
+}

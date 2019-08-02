@@ -1,0 +1,168 @@
+Tweak,Repo,Version
+7-zip (POSIX),p7zip,16.02-1
+APT (apt-key),apt-key,1.4.9-2
+APT 1.4 Strict (libapt-pkg),libapt-pkg5.0,1.4.9-1
+APT Command Line,apt,1:0-2
+APT Strict,apt1.4,1.4.9-1
+APT Strict (lib),libapt,1.4.9-2
+Activator,libactivator,1.9.13~beta5
+Activator Theme Fix,eu.rio-doro.actithemefix,1.0
+AlarmGroups,com.fouadraheb.alarmgroups,1.0
+AnimationsBeFast,com.adamseiter.animationsbefast,1.4.7
+AppCake,com.iphonecake.appcake6,6.1.3
+AppList,applist,1.5.15~beta1
+AppStore++,com.cokepokes.appstoreplusplus,0.9.6-1
+AppSync Unified,net.angelxwind.appsyncunified,32.0
+Appcon,org.thebigboss.appcon,1.4.5
+Artsy,ch.mdaus.artsy,2.0~Beta.8
+Assuan,libassuan,2.5.1-1
+Aube,com.hackyouriphone.aube,1.6
+AutoAlerts,com.shiftcmdk.autoalerts,1.0
+Axon,me.nepeta.axon,0.1.9
+Base Structure,base,1-5
+Berkeley DB,berkeleydb,6.2.32-1
+Better3DMenus,com.dpkg.better3dmenus,2.4
+BetterCCIconsPro,com.hackyouriphone.bettercciconspro,1.7.5k
+BetterCCXI,com.hackyouriphone.betterccxi,1.4.10
+BigBoss Icon Set,org.thebigboss.repo.icons,1.0
+Bolders,ca.ndoizo.bolders,1.1.1
+Bourne-Again SHell,bash,5.0.3-1
+Bubblegum,com.hackyouriphone.bubblegum,1.2
+CA Certs,ca-certificates,0.0.2
+CCModules,com.jailbreak365.safeccmodules,1.4-3
+CCSupport,com.opa334.ccsupport,1.2-3
+Cappd,com.dpkg.cappd,1.0.3
+Cephei,ws.hbang.common,1.13.1-2
+ColorMyBattery,com.imkpatil.colormybattery,1.3.2
+Compactions CC,io.github.worksbybbs.compactionscc11,1.1
+Core Utilities,coreutils,8.30-2
+Core Utilities (/bin),coreutils-bin,8.30-3
+Cuboid,com.chilaxan.cuboid,2.0.1
+Cydia Installer,cydia,1.1.32~b16
+Cydia Substrate,mobilesubstrate,0.9.7033
+Cydia Translations,cydia-lproj,1.1.32~b1
+Cylinder,com.r333d.cylinder,1.0.6
+Darwin Tools,darwintools,1-6
+DebKeeper,net.tateu.debkeeper,1.0.3
+Debian Packager,dpkg,1.18.25-11
+Debian Utilities,debianutils,4.8.6-1
+Diff Utilities,diffutils,3.6-1
+DismissProgress,org.thebigboss.dismissprogress,1.0.4
+Essential,essential,0-1
+Fast Copy,com.comex.fastcopy,1.0
+Felicity,com.xandesign.felicity,4.2
+Filza File Manager,com.tigisoftware.filza,3.6.4
+Find Utilities,findutils,4.6.0-2
+Flame,com.aditkamath.flame,1.3
+FlipConvert,com.julioverne.flipconvert,0.0~beta4~A12
+Flipswitch,com.a3tweaks.flipswitch,1.0.16~beta5
+FloatingDock,com.imkpatil.floatingdock,1.5
+GNU Cryptography,gcrypt,1.8.3-1
+GNU Multiple Precision Arithmetic Library,libgmp10,6.1.2-1
+Gamma,com.sygem.gamma,1.2
+GnuPG,gnupg,2.2.11-2
+GnuPG Errors,libgpg-error,1.32-1
+GnuTLS,gnutls,3.5.19-1
+Goji,com.hackyouriphone.goji,2.0.0
+GrooveTube,com.revulate.groovetube,0.9
+Groovify,com.revulate.groovify,1.2.1
+HYI Repo Icons,com.hackyouriphone.iconrepo,8.0.4
+Harmony,com.revulate.harmony,1.4.4
+HideYourApps,ca.menushka.hideyourapps,1.2.1
+IconSupport,com.chpwn.iconsupport,1.11.1
+ImageCorrect,com.satvikb.imagecorrect,0.4
+Installer,me.apptapp.installer,5.0b7
+Jailbreak Resources,jailbreak-resources,1.0~b23
+KSBA,libksba,1.3.5-1
+Kodi-iOS,org.xbmc.kodi-ios,15.2-1
+LS EW47,com.evynw.lsew47,1.0
+LS EW54,com.evynw.lsew54,1.0
+LZ4,lz4,1.7.5-1
+LZMA Utils,lzma,2:4.32.7-2
+LeaveMeAlone,com.karimo299.leavemealone,2.3.1
+LetMeBlock,com.ps.letmeblock,0.0.6.8
+Light,com.yourepo.adnan.light,1.2
+Link Identity Editor,ldid,2:2.1.1+elucubratus2
+Locale Profiles in UTF-8,com.linusyang.localeutf8,1.0-1
+MDausch Utils,ch.mdaus.utils,0.0.3
+Magma Pro,com.hackyouriphone.magmapro,1.3.2
+Malum,com.hackyouriphone.malum,1.3
+Mega UHB IPv4 Only - iOS 9/10/11/12 - MUHB IPv4 (Mega Untrusted Hosts Blocker IPv4),com.thireus.untrustedhostsblockermegaipv4,1.1.1
+Mega UHB IPv4+6 - iOS 9/10/11/12 - MUHB IPv4+6 (Mega Untrusted Hosts Blocker IPv4 and IPv6),com.thireus.untrustedhostsblockermega,2.1.1
+Milkshake,com.modmyi.milkshake,1.6
+MiscSettings,com.idevicehacked.miscsettings,2.4.2
+Mojito,eu.bednarz.eyeris,2.0.2
+Moveable12,net.tateu.moveable12,1.0.0~beta29-32
+Muze 4,com.hackyouriphone.muze4,1.04
+NPurge,com.smokin1337.npurge,1.0.4
+Nettle,nettle,3.4.1-1
+New Curses,ncurses5-libs,5.9-1
+New Curses,ncurses,6.1-1
+New GNU Portable Threads,npth,1.6-1
+New Order,com.hackyouriphone.neworder,0.6
+NewTerm 2 (iOS 7 – 12),ws.hbang.newterm2,2.1
+NiceNotes,com.muirey03.nicenotes,1.0.4
+NoBetaAlert,com.parrotgeek.nobetaalert,1.3.1
+Notifica,me.nepeta.notifica,0.3.0-4
+NudeKeys (iOS 12),com.orangebananaspy.nudekeysios12,1.0.0~b8
+Obsidian,com.pixelomer.obsidian,1.0
+Omega,com.hackyouriphone.omega,1.1
+OpenSSH,openssh,7.9p1-3
+OpenSSL 1.0 Libraries,libssl1.0,1.0.2s-1
+PhotoManager (iOS 12),com.hackyouriphone.photomanager12,1.0.7-1+debug
+PowerSelector (iOS 11 & 12),com.ichitaso.powerselector11,1.2.1
+PreferenceLoader,preferenceloader,2.2.4~beta1
+PreviewBeGone,com.simalary.auxiliumdevelopment.previewbegone,1.0
+PrimalFolder,com.ichitaso.primalfolder,0.0.7
+Profile Directory,profile.d,0-1
+PullToRespring,com.sassoty.pulltorespring,1.2
+QuickCC,com.ichitaso.quickcc,1.0.1
+ReProvision,com.matchstic.reprovision,0.4.2
+Rocket for Instagram,me.alfhaily.rocket,3.5.2
+RocketBootstrap,com.rpetrich.rocketbootstrap,1.0.7~beta3
+Safari Plus,com.opa334.safariplus,1.7~b8
+SelectionPlus,com.hackyouriphone.selectionplus,1.0.6.4
+Signing Certificate,signing-certificate,0.0.1
+SnapBack,me.midnightchips.snapback,2.0.0
+SnowBoard,com.spark.snowboard,1.2.7~Beta1
+SnowBoard Application,com.spark.snowboardapplication,1.0.1~Beta1
+Speculum,com.lacertosusrepo.speculum,1.3.4
+StatusBar NoX,net.tateu.statusbarnox,1.0.0~beta1-3
+Substrate Safe Mode,com.saurik.substrate.safemode,0.9.6001.1
+Succession,com.samgisaninja.successionrestore,1.3.4
+Sudo,sudo,1.8.27-3
+SwipeForMore,org.thebigboss.swipeformore,1.1.10
+SwipeSelectionX,com.mumiantech.swipeselectionx,1.6.1-1
+System Memory Reset Fix,system-memory-reset-fix,1.0
+TapController,com.skylerk99.tapcontroller,0.0.4
+Tape Archive,tar,1.30-2
+Trust Cache Injector,trustinjector,0.4~b5
+Twitter Labs,ru.pvmntsdev.twitterlabs,1.0.6
+UHB - iOS 9/10/11/12 (Untrusted Hosts Blocker),com.thireus.untrustedhostsblocker9,1.7.1
+UIKit Tools,uikittools,1.1.13-18
+Ultrasound,applebetas.ios.tweak.willow,1.2.9
+Utubed,utubed.ws,1.0.8
+Veexillum,com.hackyouriphone.veexillum,2.7
+Viola,com.hackyouriphone.viola,1.5
+VivoApexIconSet,org.thebigboss.vivoapexiconsettheme,1.1
+VolbrateXI,com.lacertosusrepo.volbratexi,1.3
+WishDia,com.julioverne.wishdia,0.0~beta1
+XZ Utils,xz,5.2.4-4
+Xen HTML,com.matchstic.xenhtml,0.5.4
+XenInfo,com.junesiphone.xeninfo,2.2.6
+YTMiniBarX,com.wh0ba.ytminibarx,0.1
+Zebra (BETA),xyz.willy.zebra,1.0~beta19
+iCleaner Pro,com.exile90.icleanerpro,7.7.5
+iOS Firmware,firmware,12.1.1
+iPhone Firmware (/sbin),firmware-sbin,0-1
+libCSColorPicker,com.creaturesurvive.libcscolorpicker,1.0
+libCSPreferences,com.creaturecoding.libcspreferences,1.1.6
+libSparkAppList,com.spark.libsparkapplist,1.0.3
+libSubstitrate,com.ps.libsubstitrate,0.0.1-3
+libbulletin,net.limneos.libbulletin,0.1-145
+libcolorpicker,org.thebigboss.libcolorpicker,1.6.3-1
+libnepeta,me.nepeta.libnepeta,0.1.1
+libswift4,com.modmyi.libswift4,4.2.1-2
+mida~beta,com.trentjk.mida,1.0.4~b1
+shuffle,com.creaturecoding.shuffle,0.8.0b
+twttr,me.aesthyrica.twttr,1.0.3

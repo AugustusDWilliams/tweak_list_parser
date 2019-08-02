@@ -1,0 +1,42 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: Flask",
+            "type": "python",
+            "request": "launch",
+            "module": "flask",
+            "env": {
+                "FLASK_APP": "app.py"
+            },
+            "args": [
+                "run",
+                "--no-debugger",
+                "--no-reload"
+            ],
+            "jinja": true
+        },
+        {
+            "name": "Python: Run",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/run.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "TweakListParser",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/tweak_list_parser/__main__.py",
+            "args": ["/home/development/projects/tweak_list_parser/data/tweak_list.txt"],
+            "console": "integratedTerminal"
+        },
+    ]
+}
